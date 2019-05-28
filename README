@@ -1,4 +1,7 @@
+This is an implementation of Raytracing in C++.
+
+
 Features did not implement:
 
-5. Refraction
-6. Stochstic ray generation
+Refraction
+Stochstic ray generation
